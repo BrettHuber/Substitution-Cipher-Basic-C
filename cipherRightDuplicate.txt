@@ -1,0 +1,6 @@
+H,X
+E,N
+L,A
+O,R
+S,P
+A,X
